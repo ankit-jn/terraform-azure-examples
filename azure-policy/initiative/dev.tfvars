@@ -1,6 +1,12 @@
 policies = [
     {
         name = "arjstack-enforce-tag"
+        display_name = "Require a tag on resources"
+        metadata = {
+            "version": "1.0.0",
+            "category": "Tags"
+        }
+        
         policy_file = "policies/enforce-tag.json"
         assignments = [
             # {
