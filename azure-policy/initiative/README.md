@@ -11,7 +11,7 @@ This Example configuration is a demonstration of [Module: Terraform Azure Policy
 | 2 | Custom Policy Assignment |  | Custom Policy `arjstack-enforce-tag` assignment on Resource Group `dev` |
 | 3 | Custom Policy Assignment |  | Custom Policy `arjstack-enforce-tag` assignment on Subscription `e0144b68-50de-4ef2-a45a-e905392f8345` |
 | 4 | Builtin Policy Assignment |  | Inbuilt Policy `e56962a6-4747-49cd-b67b-bf8b01975c4c` assignment on Subscription `e0144b68-50de-4ef2-a45a-e905392f8345` |
-| 5 | Azure Initiative (Policy Set) | `arjstack-initiative` | Policies <br>1. `e56962a6-4747-49cd-b67b-bf8b01975c4c`<br>2. 0b60c0b2-2dc2-4e1c-b5c9-abbed971de53 |
+| 5 | Azure Initiative (Policy Set) | `arjstack-initiative` | Policies <br>1. `e56962a6-4747-49cd-b67b-bf8b01975c4c`<br>2. `0b60c0b2-2dc2-4e1c-b5c9-abbed971de53` |
 | 6 | Initiative Assignment |  | Initiative `arjstack-initiative` assignment on Subscription `e0144b68-50de-4ef2-a45a-e905392f8345` |
 | 7 | Initiative Assignment |  | Initiative `arjstack-initiative` assignment on Resource Group `dev` |
 
