@@ -1,6 +1,6 @@
 # ARJ-Stack: Terraform Azure -> Initiative (Policy Set)
 
-This Example configuration is a demonstration of [Module: Terraform Azure Policy Framework](https://github.com/arjstack/terraform-azure-policy) utilization to create Initiatives (Policy sets) and their assignments on different scopes.
+This Example configuration is a demonstration of [Module: Terraform Azure Policy Framework](https://github.com/arjstack/terraform-azure-policy) utilization to create Azure Policy and their assignments as stated above, Azure Initiative (mix of Custom, BuiltIn Policies) and their assignments on different scopes (Management Groups, Subscriptions, Resource Groups, Resources).
 
 #### Resources to be provisioned as an outcome of this example
 ---
