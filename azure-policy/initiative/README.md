@@ -1,6 +1,6 @@
 # ARJ-Stack: Terraform Azure -> Initiative (Policy Set)
 
-This Example configuration is a demonstration of [Module: Terraform Azure Policy Framework](https://github.com/arjstack/terraform-azure-policy) utilization to create Azure Policy and their assignments as stated above, Azure Initiative (mix of Custom, BuiltIn Policies) and their assignments on different scopes (Management Groups, Subscriptions, Resource Groups, Resources).
+This Example configuration is a demonstration of [Module: Terraform Azure Policy Framework](https://github.com/ankit-jn/terraform-azure-policy) utilization to create Azure Policy and their assignments as stated above, Azure Initiative (mix of Custom, BuiltIn Policies) and their assignments on different scopes (Management Groups, Subscriptions, Resource Groups, Resources).
 
 #### Resources to be provisioned as an outcome of this example
 ---
@@ -42,4 +42,4 @@ Note: Select the correct the AWS provider configurations in `provider.tf` file
 
 ## Authors
 
-Module is maintained by [Ankit Jain](https://github.com/ankit-jn) with help from [these professional](https://github.com/arjstack/terraform-azure-examples/graphs/contributors).
+Module is maintained by [Ankit Jain](https://github.com/ankit-jn) with help from [these professional](https://github.com/ankit-jn/terraform-azure-examples/graphs/contributors).
